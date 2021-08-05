@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../09_Classes_Encapsulation/exercise-student/m01d09-oop-with-encapsulation-exercise.iml" filepath="$PROJECT_DIR$/../../09_Classes_Encapsulation/exercise-student/m01d09-oop-with-encapsulation-exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../11_Inheritance/exercise-student/m01d11-inheritance-exercises.iml" filepath="$PROJECT_DIR$/../../11_Inheritance/exercise-student/m01d11-inheritance-exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../11_Inheritance/lecture-final/m01d11-inheritance-lecture-final.iml" filepath="$PROJECT_DIR$/../../11_Inheritance/lecture-final/m01d11-inheritance-lecture-final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../12_Polymorphism/exercise-student/m01d12-polymorphism-exercise.iml" filepath="$PROJECT_DIR$/../../12_Polymorphism/exercise-student/m01d12-polymorphism-exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../12_Polymorphism/lecture-student/m01d12-polymorphism-lecture.iml" filepath="$PROJECT_DIR$/../../12_Polymorphism/lecture-student/m01d12-polymorphism-lecture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../12_Polymorphism/lecture-final/m01d12-polymorphism-lecture-final.iml" filepath="$PROJECT_DIR$/../../12_Polymorphism/lecture-final/m01d12-polymorphism-lecture-final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../13_Inheritance_Abstract_Classes/exercise-student/m01d13-inheritance-part2-exercise.iml" filepath="$PROJECT_DIR$/../../13_Inheritance_Abstract_Classes/exercise-student/m01d13-inheritance-part2-exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../13_Inheritance_Abstract_Classes/lecture-student/m01d13-inheritance-part2-lecture.iml" filepath="$PROJECT_DIR$/../../13_Inheritance_Abstract_Classes/lecture-student/m01d13-inheritance-part2-lecture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../13_Inheritance_Abstract_Classes/lecture-final/m01d13-inheritance-part2-lecture-final.iml" filepath="$PROJECT_DIR$/../../13_Inheritance_Abstract_Classes/lecture-final/m01d13-inheritance-part2-lecture-final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../14_Unit_Testing/lecture-final/m01d14-unit-testing-lecture-final.iml" filepath="$PROJECT_DIR$/../../14_Unit_Testing/lecture-final/m01d14-unit-testing-lecture-final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../team7-java-blue-week03-pair-exercises/Polymorphism-pair-exercise/m01d15-polymorphism-pair-exercises.iml" filepath="$PROJECT_DIR$/../../../../team7-java-blue-week03-pair-exercises/Polymorphism-pair-exercise/m01d15-polymorphism-pair-exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../15_Week3_Review/lecture-final/m01d15-week3-review-final.iml" filepath="$PROJECT_DIR$/../../15_Week3_Review/lecture-final/m01d15-week3-review-final.iml" />
+    </modules>
+  </component>
+</project>

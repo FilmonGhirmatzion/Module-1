@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="10cbef1e-168a-4728-bd9d-e435c254ec0d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit3 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1sOZRbDxdqKoKeOm3rzEJG6uNhs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit3" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3" value="junit.framework.TestCase" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../14_Unit_Testing/exercise-student" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="junit.framework.TestCase" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.techelevator.draw.tool.com.techelevator.vihcle" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AnimalGroupNameTest">
+    <configuration name="AnimalGroupNameTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="m01d14-unit-testing-exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techelevator" />
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.AnimalGroupNameTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnimalGroupNameTest.animal_group_Dog" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="m01d14-unit-testing-exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techelevator" />
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.AnimalGroupNameTest" />
+      <option name="METHOD_NAME" value="animal_group_Dog" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnimalGroupNameTest.animal_group_Rhino" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="m01d14-unit-testing-exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techelevator" />
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.AnimalGroupNameTest" />
+      <option name="METHOD_NAME" value="animal_group_Rhino" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnimalGroupNameTest.animal_group_name" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="m01d14-unit-testing-exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techelevator" />
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.AnimalGroupNameTest" />
+      <option name="METHOD_NAME" value="animal_group_name" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnimalGroupNameTest.test_Null_Or_Unkown" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="m01d14-unit-testing-exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techelevator" />
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.AnimalGroupNameTest" />
+      <option name="METHOD_NAME" value="test_Null_Or_Unkown" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AnimalGroupNameTest.animal_group_Rhino" />
+        <item itemvalue="JUnit.AnimalGroupNameTest.animal_group_Dog" />
+        <item itemvalue="JUnit.AnimalGroupNameTest.test_Null_Or_Unkown" />
+        <item itemvalue="JUnit.AnimalGroupNameTest.animal_group_name" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10cbef1e-168a-4728-bd9d-e435c254ec0d" name="Default Changelist" comment="" />
+      <created>1620745590185</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620745590185</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../09_Classes_Encapsulation/lecture-student/src/main/java/com/techelevator/vehicle/BusDriver.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/m01d15_week3_review$All_in_m01d14_unit_testing_lecture_final.ic" NAME="All in m01d14-unit-testing-lecture-final Coverage Results" MODIFIED="1622209251040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/m01d02_variables_and_datatypes_lecture$HelloWorld.ic" NAME="HelloWorld Coverage Results" MODIFIED="1620751635366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.techelevator.*</FILTER>
+    </SUITE>
+  </component>
+</project>

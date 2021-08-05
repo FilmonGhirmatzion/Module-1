@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="m01d04-loops-and-arrays-exercise" />
+        <module name="m01d14-unit-testing-lecture-final" />
+        <module name="m01d11-inheritance-lecture-final" />
+        <module name="m02d07-dao-lecture-final" />
+        <module name="m01d04-loops-and-arrays-lecture-final" />
+        <module name="m01d03-expressions-and-control-flow-exercises" />
+        <module name="m01d14-unit-testing-exercise" />
+        <module name="m01d16-file-io-part1-exercise" />
+        <module name="m01d16-file-io-part1-lecture" />
+        <module name="m01d16-file-io-part1-lecture-final" />
+        <module name="m1-java-capstone-catering-system" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="m01d02-variables-and-datatypes-exercises" target="11" />
+      <module name="m01d03-expressions-and-control-flow-exercises" target="11" />
+      <module name="m01d04-loops-and-arrays-exercise" target="11" />
+      <module name="m01d04-loops-and-arrays-lecture-final" target="11" />
+      <module name="m01d11-inheritance-lecture-final" target="11" />
+      <module name="m01d12-polymorphism-exercise" target="11" />
+      <module name="m01d12-polymorphism-lecture-final" target="1.5" />
+      <module name="m01d14-unit-testing-exercise" target="11" />
+      <module name="m01d14-unit-testing-lecture-final" target="11" />
+      <module name="m01d15-polymorphism-pair-exercises" target="1.8" />
+      <module name="m01d15-week3-review" target="11" />
+      <module name="m01d15-week3-review-final" target="11" />
+      <module name="m01d16-file-io-part1-exercise" target="11" />
+      <module name="m01d16-file-io-part1-lecture" target="11" />
+      <module name="m01d16-file-io-part1-lecture-final" target="11" />
+      <module name="m01d17-file-io-part2-lecture" target="11" />
+      <module name="m01d17-file-io-part2-lecture-final" target="11" />
+      <module name="m02d07-dao-exercises-pair" target="1.5" />
+      <module name="m02d07-dao-lecture" target="11" />
+      <module name="m02d07-dao-lecture-final" target="11" />
+      <module name="m02d08-integration-testing-lecture" target="11" />
+      <module name="m02d08-integration-testing-lecture-final" target="11" />
+      <module name="m1-java-capstone-catering-system" target="11" />
+      <module name="Module-1-Coding-Assessment" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

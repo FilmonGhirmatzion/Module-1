@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../03_Expressions/exercise-student/m01d03-expressions-and-control-flow-exercises.iml" filepath="$PROJECT_DIR$/../../03_Expressions/exercise-student/m01d03-expressions-and-control-flow-exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../04_Loops_Arrays/exercise-student/m01d04-loops-and-arrays-exercise.iml" filepath="$PROJECT_DIR$/../../04_Loops_Arrays/exercise-student/m01d04-loops-and-arrays-exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../04_Loops_Arrays/lecture-final/m01d04-loops-and-arrays-lecture-final.iml" filepath="$PROJECT_DIR$/../../04_Loops_Arrays/lecture-final/m01d04-loops-and-arrays-lecture-final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../11_Inheritance/lecture-final/m01d11-inheritance-lecture-final.iml" filepath="$PROJECT_DIR$/../../11_Inheritance/lecture-final/m01d11-inheritance-lecture-final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m01d14-unit-testing-exercise.iml" filepath="$PROJECT_DIR$/m01d14-unit-testing-exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lecture-final/m01d14-unit-testing-lecture-final.iml" filepath="$PROJECT_DIR$/../lecture-final/m01d14-unit-testing-lecture-final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../16_FileIO_Reading_in/exercise-student/m01d16-file-io-part1-exercise.iml" filepath="$PROJECT_DIR$/../../16_FileIO_Reading_in/exercise-student/m01d16-file-io-part1-exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../16_FileIO_Reading_in/lecture-student/m01d16-file-io-part1-lecture.iml" filepath="$PROJECT_DIR$/../../16_FileIO_Reading_in/lecture-student/m01d16-file-io-part1-lecture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../16_FileIO_Reading_in/lecture-final/m01d16-file-io-part1-lecture-final.iml" filepath="$PROJECT_DIR$/../../16_FileIO_Reading_in/lecture-final/m01d16-file-io-part1-lecture-final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../module-2/07_Database_Connectivity_DAO/lecture-final/m02d07-dao-lecture-final.iml" filepath="$PROJECT_DIR$/../../../module-2/07_Database_Connectivity_DAO/lecture-final/m02d07-dao-lecture-final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../team6-java-blue-week04-pair-exercises/m1-capstone-java-cateringsystem/m1-java-capstone-catering-system.iml" filepath="$PROJECT_DIR$/../../../../team6-java-blue-week04-pair-exercises/m1-capstone-java-cateringsystem/m1-java-capstone-catering-system.iml" />
+    </modules>
+  </component>
+</project>
